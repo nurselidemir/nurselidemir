@@ -11,8 +11,8 @@
 
 ---
 
-### 💻 Profile
-Computer Engineer focused on software development and backend engineering[cite: 1]. Experience building end-to-end applications using modern frameworks, relational databases, and scalable API architectures[cite: 1]. Also experienced in applied AI, machine learning, and computer vision solutions[cite: 1].
+### Profile
+Computer Engineer focused on software development and backend engineering. Experience building end-to-end applications using modern frameworks, relational databases, and scalable API architectures. Also experienced in applied AI, machine learning, and computer vision solutions.
 
 ---
 
