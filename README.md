@@ -1,24 +1,24 @@
 <h1 align="center">Nurseli Demir</h1>
 <p align="center">
-  <strong>Computer Engineer | Software & AI Developer</strong><br>
+  <strong>Computer Engineer | AI & Backend Developer</strong><br>
   Istanbul, Turkey
 </p>
 
 <p align="center">
   <a href="mailto:nurselidemiir@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/nurselidemir">LinkedIn</a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a>
 </p>
 
 ---
 
-### Profile
-Computer Engineer focused on software development and backend engineering. Experience building end-to-end applications using modern frameworks, relational databases, and scalable API architectures. Also experienced in applied AI, machine learning, and computer vision solutions.
+### 💻 Profile
+Computer Engineer primarily focused on applied AI, machine learning, and computer vision solutions, with strong engineering foundations in full-stack backend development. Experienced in building end-to-end applications, fine-tuning NLP models, and integrating intelligent features into scalable API architectures.
 
 ---
 
 ### 🛠️ Technical Skills
 
-#### 🧠 AI & Machine Learning
+#### 🧠 AI, NLP & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -27,13 +27,13 @@ Computer Engineer focused on software development and backend engineering. Exper
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-#### 💻 Languages & Frameworks
+#### 💻 Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
